@@ -1,0 +1,16 @@
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 07\Walthrough1\OOPWalkThrough1\bin\Debug\OOPWalkThrough1.exe.config
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 07\Walthrough1\OOPWalkThrough1\bin\Debug\OOPWalkThrough1.exe
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 07\Walthrough1\OOPWalkThrough1\bin\Debug\OOPWalkThrough1.pdb
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 07\Walthrough1\OOPWalkThrough1\obj\Debug\OOPWalkThrough1.csprojResolveAssemblyReference.cache
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 07\Walthrough1\OOPWalkThrough1\obj\Debug\OOPWalkThrough1.PersonInformationUI.resources
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 07\Walthrough1\OOPWalkThrough1\obj\Debug\OOPWalkThrough1.csproj.GenerateResource.Cache
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 07\Walthrough1\OOPWalkThrough1\obj\Debug\OOPWalkThrough1.exe
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 07\Walthrough1\OOPWalkThrough1\obj\Debug\OOPWalkThrough1.pdb
+C:\Users\minha\Desktop\asp.net\Day-07\Walthrough1\OOPWalkThrough1\bin\Debug\OOPWalkThrough1.exe.config
+C:\Users\minha\Desktop\asp.net\Day-07\Walthrough1\OOPWalkThrough1\obj\Debug\OOPWalkThrough1.exe
+C:\Users\minha\Desktop\asp.net\Day-07\Walthrough1\OOPWalkThrough1\obj\Debug\OOPWalkThrough1.pdb
+C:\Users\minha\Desktop\asp.net\Day-07\Walthrough1\OOPWalkThrough1\bin\Debug\OOPWalkThrough1.exe
+C:\Users\minha\Desktop\asp.net\Day-07\Walthrough1\OOPWalkThrough1\bin\Debug\OOPWalkThrough1.pdb
+C:\Users\minha\Desktop\asp.net\Day-07\Walthrough1\OOPWalkThrough1\obj\Debug\OOPWalkThrough1.csprojResolveAssemblyReference.cache
+C:\Users\minha\Desktop\asp.net\Day-07\Walthrough1\OOPWalkThrough1\obj\Debug\OOPWalkThrough1.PersonInformationUI.resources
+C:\Users\minha\Desktop\asp.net\Day-07\Walthrough1\OOPWalkThrough1\obj\Debug\OOPWalkThrough1.csproj.GenerateResource.Cache
